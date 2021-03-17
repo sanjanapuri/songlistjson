@@ -1,0 +1,72 @@
+//JSON Song List
+songlist = '[
+	{
+		"title": "Blue Bayou",
+		"artist": "Linda Ronstadt",
+		"genre": ["country rock", "folk"],
+		"year": 1977
+	},
+
+	{	
+		"title": "Fire of Love",
+		"artist": "Jesse Jo Stark",
+		"genre": ["pop", "indie folk"],
+		"year": 2018
+	},
+
+	{
+		"title": "Hey Little Baby",
+		"artist": "DOPE LEMON",
+		"genre": ["indie folk"],
+		"year": 2019
+	},
+
+	{
+		"title": "Escape from LA",
+		"artist": "The Weeknd",
+		"genre": ["pop"],
+		"year": 2020
+	},
+
+	{
+		"title": "Ocean Drive",
+		"artist": "Duke Dumont",
+		"genre": ["pop", "edm"],
+		"year": 2015
+	},
+
+	{
+		"title": "My Man",
+		"artist": "Delacey",
+		"genre": ["alternative"],
+		"year": 2020
+	},
+
+	{
+		"title": "Don't Stop",
+		"artist": "Fleetwood Mac",
+		"genre": ["classic rock"],
+		"year": 1977
+	},
+
+	{
+		"title": "Decay",
+		"artist": "Akenya",
+		"genre": ["r&b", "alternative"],
+		"year": 2018
+	},
+
+	{
+		"title": "24/7/365",
+		"artist": "Surfaces",
+		"genre": ["pop"],
+		"year": 2017
+	},
+
+	{
+		"title": "SUMMER",
+		"artist": "The Carters",
+		"genre": ["r&b"],
+		"year": 2018
+	}
+]';
