@@ -1,5 +1,4 @@
 //JSON Song List
-songlist = '[
 	{
 		"title": "Blue Bayou",
 		"artist": "Linda Ronstadt",
@@ -69,4 +68,3 @@ songlist = '[
 		"genre": ["r&b"],
 		"year": 2018
 	}
-]';
