@@ -1,4 +1,5 @@
 //JSON Song List
+[
 	{
 		"title": "Blue Bayou",
 		"artist": "Linda Ronstadt",
@@ -68,3 +69,4 @@
 		"genre": ["r&b"],
 		"year": 2018
 	}
+]
