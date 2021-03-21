@@ -2,70 +2,70 @@
 	{
 		"title": "Blue Bayou",
 		"artist": "Linda Ronstadt",
-		"genre": ["country rock", "folk"],
+		"genre": ["Country Rock", "Folk"],
 		"year": 1977
 	},
 
 	{	
 		"title": "Fire of Love",
 		"artist": "Jesse Jo Stark",
-		"genre": ["pop", "indie folk"],
+		"genre": ["Pop", "Indie Folk"],
 		"year": 2018
 	},
 
 	{
 		"title": "Hey Little Baby",
 		"artist": "DOPE LEMON",
-		"genre": ["indie folk"],
+		"genre": ["Indie Folk"],
 		"year": 2019
 	},
 
 	{
 		"title": "Escape from LA",
 		"artist": "The Weeknd",
-		"genre": ["pop"],
+		"genre": ["Pop"],
 		"year": 2020
 	},
 
 	{
 		"title": "Ocean Drive",
 		"artist": "Duke Dumont",
-		"genre": ["pop", "edm"],
+		"genre": ["Pop", "EDM"],
 		"year": 2015
 	},
 
 	{
 		"title": "My Man",
 		"artist": "Delacey",
-		"genre": ["alternative"],
+		"genre": ["Alternative"],
 		"year": 2020
 	},
 
 	{
 		"title": "Don't Stop",
 		"artist": "Fleetwood Mac",
-		"genre": ["classic rock"],
+		"genre": ["Classic Rock"],
 		"year": 1977
 	},
 
 	{
 		"title": "Decay",
 		"artist": "Akenya",
-		"genre": ["r&b", "alternative"],
+		"genre": ["R&B", "Alternative"],
 		"year": 2018
 	},
 
 	{
 		"title": "24/7/365",
 		"artist": "Surfaces",
-		"genre": ["pop"],
+		"genre": ["Pop"],
 		"year": 2017
 	},
 
 	{
 		"title": "SUMMER",
 		"artist": "The Carters",
-		"genre": ["r&b"],
+		"genre": ["R&B"],
 		"year": 2018
 	}
 ]
